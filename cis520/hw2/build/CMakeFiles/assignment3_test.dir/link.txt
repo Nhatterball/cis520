@@ -1,0 +1,1 @@
+/opt/software/software/GCCcore/9.3.0/bin/c++  -std=c++11 -Wall -Wextra -Wshadow -Werror  -rdynamic CMakeFiles/assignment3_test.dir/test/tests.cpp.o  -o assignment3_test  -Wl,-rpath,/homes/bntrieu/share_hpc/hw2/build -lgtest -lpthread libdyn_array.so libprocess_scheduling.so libtest.so 
